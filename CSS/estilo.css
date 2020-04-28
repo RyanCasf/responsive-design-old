@@ -1,0 +1,60 @@
+/*		RESET			*/
+*{margin: 0; padding: 0; font-size: 100%; border: none; outline: none; font: inherit;
+vertical-align: baseline; font-family:'Roboto'; text-decoration: none; line-height: 28px;
+word-spacing: 3px;}
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+display: block;}
+body {line-height: 1; background-color: #f4f4f4}
+ol, ul {list-style: none;}
+img {max-width: 100%;}
+blockquote, q {quotes: none;}
+blockquote:before, blockquote:after,q:before, q:after {content: '';content: none;}
+table {border-collapse: collapse;border-spacing: 0;}
+
+/*		HEADER			*/
+.cabecalho {width: 100%; padding: 3px 0px; float: left;}
+.logo {width: 88px; height: 88px; float: left; background-repeat: no-repeat;}
+
+/*		MENU			*/
+.botaoMenu {width: 56px; height: 56px; float: right; border-radius: 56px; cursor: pointer;
+background-color: red;}
+.menu .nulo {padding: 5% 0%;}
+.menu {width: 100%; position: fixed; background-color: rgba(0,0,0,0.765); height: 100%;
+margin-top: -4px; text-align: center; padding-top: 1%;}
+.menu ul {width: 100%; text-align: center;}
+.menu li {padding: 1.8%;}
+.menu li a {font-size: 1.5em; color: white; padding: 1.8%;}
+.menu li a:hover {border: 0.8px solid orange;}
+.close {float: right; font-size: 2em; color: white; cursor: pointer; padding-right: 0.8%;}
+
+/*			TEXT 				*/
+.leftTxt {float: left; width: 100%; padding: 3px 0px;}
+.txt {text-align: left; font-size: 1.3em; padding: 2%; color: gray;}
+
+/*			INTRODUCTION		*/
+.introduction {background: url(../IMG/Internet.jpg); background-repeat: no-repeat; width: 100%;
+float: left; margin-top: 1.5%; text-align: center; padding: 2% 0 2% 0;}
+.subtitle {font-size: 2.15em; color: white; font-weight: 700;}
+.text {font-size: 1.35em; color: white; padding: 7%;}
+.titleGeneral {font-size: 2.15em; color: black; font-weight: 700; text-align: center;} 
+
+/*			SING		*/
+.sing {width: 100%; float: left; text-align: center; background-color: #4c4c4c; padding-top: 2%;
+padding-bottom: 2%; background: url(../IMG/bg.jpg);}
+.titleSing {font-size: 1.5em; padding-bottom: 1%; font-weight: 700; color: white;}
+.textSing {font-size: 1.2em; color: white;}
+input {color: gray; text-align: center; font-size: 150%; border: 1px solid white;  
+border-radius: 7px; background-color: white; width: 55%; padding: 1.5%;}
+.buttonSing {font-size: 150%; color: white; background-color: #4c4c4c; padding: 2%;
+border: 1px solid white; border-radius: 7px; margin-top: 1%; width: 58%; cursor: pointer;} 
+
+/*			FOOTER		*/
+.rodape {width: 100%; float: left; text-align: center; background-color: black; color: white;}
+.social {color: white; padding-top: 2%; font-size: 1.8em; padding-bottom: 1.5%;}
+.copyright {padding-bottom: 2%; font-size: 1.15em;}
+a {color: white; transition: 1s;}
+a:hover {color: red;}
+
+/*			BREAKPOINTS		*/
+@media screen and (min-width: 320px;) {/*Colocar alterações*/}
+@media screen and (min-width: 520px;) {}
