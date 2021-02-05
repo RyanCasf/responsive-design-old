@@ -10,10 +10,10 @@ By RYAN CASTRO FERREIRA,<br>
 
 <hr>
 <h2>Screens</h2>
-<img src="Screens/Moto G4.png">
-<img src="Screens/(iPad).png">
-<img src="Screens/DesignUpLeftl.png">
-<img src="Screens/Surface Duo.png">
+<img src="ScreenS/Moto G4.png">
+<img src="ScreenS/(iPad).png">
+<img src="ScreenS/DesignUpLeftl.png">
+<img src="ScreenS/Surface Duo.png">
 
 <hr>
 <h4>Please, Choose your width and heigth -> To Test.</h4>
