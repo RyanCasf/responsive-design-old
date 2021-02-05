@@ -3,7 +3,8 @@
 
 <hr>
 <h2>Why?</h2>
-<p>It's site of objective was create one, but without functions of now.</p>
+<p>It's site of objective was create one, but without functions of now. <br>
+Still an excelent element X for mobile/desktop pages (layout change).</p>
 By RYAN CASTRO FERREIRA,<br>
 <b style="color: blue;">LinkdIn </b>- https://www.linkedin.com/in/ryan-castro-ferreira/<br>
 <b style="color: red;">Email </b>- ryancasf@gmail.com<br>
